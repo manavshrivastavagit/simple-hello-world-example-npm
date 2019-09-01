@@ -17,7 +17,7 @@ npm install simple-hello-world-example
 
 var myApp = require("simple-hello-world-example");
 
-var msg = myApp.printMsg(); // print and return " Hello World! " 
+myApp.printMsg(); // print and return " Hello World! " 
 
 ```
 
@@ -27,7 +27,7 @@ var msg = myApp.printMsg(); // print and return " Hello World! "
 
 import * as myApp from 'simple-hello-world-example';
 
-let msg = myApp.printMsg(); // print and return " Hello World! " 
+myApp.printMsg(); // print and return " Hello World! " 
 
 
 ```
