@@ -1,6 +1,6 @@
 {
   "name": "simple-hello-world-example",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "a simple hello world example",
   "main": "index.js",
   "scripts": {
@@ -14,11 +14,11 @@
   "engines": {
     "node": ">4.0"
   },
-  "homepage": "http://github.com/manavshrivastavagit/simple-hello-world-example",
+  "homepage": "http://github.com/manavshrivastavagit/simple-hello-world-example-npm",
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/manavshrivastavagit/simple-hello-world-example/LICENSE"
+      "url": "http://github.com/manavshrivastavagit/simple-hello-world-example-npm/LICENSE"
     }
   ],
   "contributors": [
@@ -30,7 +30,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/manavshrivastavagit/simple-hello-world-example.git"
+    "url": "http://github.com/manavshrivastavagit/simple-hello-world-example-npm.git"
   },
   "devDependencies": {
     "chai": "4.1.2",
